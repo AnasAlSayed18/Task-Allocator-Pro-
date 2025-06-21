@@ -54,7 +54,7 @@
 
 ## 📷 Screenshots
 
-Soon -_-
+> Soon -_-
 ---
 
 ## 💾 Technologies Used
