@@ -54,11 +54,7 @@
 
 ## 📷 Screenshots
 
-> *(Insert screenshots in your GitHub repository or README here)*  
-> Example:  
-> ![Dashboard](screenshots/dashboard.png)  
-> ![Task Progress Slider](screenshots/progress_slider.png)
-
+Soon -_-
 ---
 
 ## 💾 Technologies Used
